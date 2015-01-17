@@ -3,7 +3,7 @@
     <f:checkbox title="Enable rollback package creation"/>
   </f:entry>
   <f:entry field="updatePackageEnabled">
-    <f:checkbox title="Update remote's package manifest"/>
+    <f:checkbox title="Update remote's package manifest on github"/>
   </f:entry>
   <f:entry field="forceInitialBuild">
     <f:checkbox title="Force initial build"/>
